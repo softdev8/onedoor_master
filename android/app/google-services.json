@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195342534022",
+    "firebase_url": "https://onedoor-74875.firebaseio.com",
+    "project_id": "onedoor-74875",
+    "storage_bucket": "onedoor-74875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195342534022:android:0afd0d1f8d7a3312",
+        "android_client_info": {
+          "package_name": "com.onedoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195342534022-khpjndbqnae5ep1oo46q7o6o6h1dahim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApse7myj0MJ1UVjhuSVk04fyfWWUiSjVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195342534022-khpjndbqnae5ep1oo46q7o6o6h1dahim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
