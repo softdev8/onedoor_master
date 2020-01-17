@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>195342534022-dpc2dag37tcsa9gol8496s5fsa0g9lat.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.195342534022-dpc2dag37tcsa9gol8496s5fsa0g9lat</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJaqyOKulojv-9LNwObtZOoRS9pykR23s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>195342534022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.business.service</string>
+	<key>PROJECT_ID</key>
+	<string>onedoor-74875</string>
+	<key>STORAGE_BUCKET</key>
+	<string>onedoor-74875.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:195342534022:ios:1356d8c6e9e03da7</string>
+	<key>DATABASE_URL</key>
+	<string>https://onedoor-74875.firebaseio.com</string>
+</dict>
+</plist>
