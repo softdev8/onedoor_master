@@ -1,0 +1,49 @@
+{
+  "name": "Onedoor",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.5.1",
+    "firebase": "^6.2.0",
+    "geolib": "^3.0.4",
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "react-native-action-button": "^2.8.5",
+    "react-native-actionsheet": "^2.4.2",
+    "react-native-camera": "^2.11.0",
+    "react-native-camera-roll-gallery": "^2.1.2",
+    "react-native-camera-roll-picker": "^1.3.0",
+    "react-native-fetch-blob": "^0.10.8",
+    "react-native-firebase": "^5.5.3",
+    "react-native-geocoding": "^0.3.0",
+    "react-native-gesture-handler": "^1.2.1",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-maps": "^0.24.2",
+    "react-native-snap-carousel": "^3.8.0",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-thumbnail": "^1.1.3",
+    "react-native-thumbnail-video": "^0.1.2",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-video": "^4.4.2",
+    "react-native-whc-loading": "^1.0.3",
+    "react-navigation": "^3.11.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/runtime": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-test-renderer": "16.8.3",
+    "react-video-thumbnail": "^0.1.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
